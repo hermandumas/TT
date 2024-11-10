@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It's 2 flip flops connected to the IO.
 
 ## How to test
 
-Explain how to use your project
+D pin of flip flops are IN0 and IN2, Q is OUT0 and OUT2.
 
 ## External hardware
 
